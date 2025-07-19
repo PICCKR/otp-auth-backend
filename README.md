@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# otp-auth-backend
-WhatsApp OTP backend for PicckR
-=======
 # WhatsApp OTP Backend with Termii
 
 ## Features
