@@ -1,5 +1,3 @@
-# otp-auth-backend
-WhatsApp OTP backend for PicckR
 # WhatsApp OTP Backend with Termii
 
 - Sends OTP via WhatsApp using Termii API
